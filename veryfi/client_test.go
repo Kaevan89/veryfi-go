@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/veryfi/veryfi-go/v3/veryfi/scheme"
-	"github.com/veryfi/veryfi-go/v3/veryfi/test"
+	"github.com/veryfi/veryfi-go/v4/veryfi/scheme"
+	"github.com/veryfi/veryfi-go/v4/veryfi/test"
 )
 
 func float64Ptr(v float64) *float64 {

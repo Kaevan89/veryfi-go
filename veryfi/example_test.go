@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/veryfi/veryfi-go/v3/veryfi"
-	"github.com/veryfi/veryfi-go/v3/veryfi/scheme"
+	"github.com/veryfi/veryfi-go/v4/veryfi"
+	"github.com/veryfi/veryfi-go/v4/veryfi/scheme"
 )
 
 func float64Ptr(v float64) *float64 {
